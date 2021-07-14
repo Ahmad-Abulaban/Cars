@@ -5,12 +5,12 @@ alert("Hey, Wlecome to my Website " + name )
 var favPhone = prompt("what is you fav Phone?")
 
 
-var txt;
-var r = confirm("Do you like phones?");
+var txt
+var r = confirm("Do you like phones?")
 if (r == true) {
-  txt = "You pressed Yes!";
+  txt = "You pressed Yes!"
 } else {
-  txt = "You pressed No!";
+  txt = "You pressed No!"
 }
 
 
