@@ -5,6 +5,8 @@ alert("Hey, Wlecome to my Website " + name )
 var favPhone = prompt("what is you fav Phone?")
 
 
+
+
 if(confirm(favPhone == "iphone")){
 document.write(
   "<div>" + "<h3>" + favPhone+"</h3>"
