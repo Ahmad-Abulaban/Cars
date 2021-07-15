@@ -17,22 +17,22 @@ if (r == true) {
 if(favPhone == "iphone"){
 document.write(
   "<div>" + "<h3>" + favPhone+"</h3>"
-+ "<img  src='Images/iphone.jfif' width='100' height='100'     />" + "</div>")
++ "<img  src='Images/iphone.jfif' width='150' height='150'     />" + "</div>")
 }
 else if (favPhone == "samsung"){
 document.write(
   "<div>" + "<h3>" + favPhone+"</h3>"
-+ "<img  src='Images/samsung.jfif' width='100' height='100'     />" + "</div>")
++ "<img  src='Images/samsung.jfif' width='150' height='150'     />" + "</div>")
 }
 else if(favPhone == "huawei"){
 document.write(
   "<div>" + "<h3>" + favPhone+"</h3>"
-+ "<img  src='Images/huawei.jfif' width='100' height='100'     />" + "</div>")
++ "<img  src='Images/huawei.jfif' width='150' height='150'     />" + "</div>")
 }
 else if(favPhone == "Redmi"){
 document.write(
   "<div>" + "<h3>" + favPhone+"</h3>"
-+ "<img  src='Images/Redmi.jfif' width='100' height='100'     />" + "</div>")
++ "<img  src='Images/Redmi.jfif' width='150' height='150'     />" + "</div>")
 }
 else{
   alert('we donot have this Phone')
