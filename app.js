@@ -1,4 +1,4 @@
-/*var name = prompt("what is your name")
+var name = prompt("what is your name")
 
 alert("Hey, Wlecome to my Website " + name )
 
@@ -36,4 +36,4 @@ document.write(
 }
 else{
   alert('we donot have this Phone')
-}*/
+}
