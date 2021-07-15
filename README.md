@@ -1,4 +1,4 @@
 # Phones
 
 ## WireFrame :
-![mobile website design](Designphoto.png)
+![mobile website design](Images/Designphoto.png)
