@@ -1,7 +1,7 @@
 function intersted_in_phones(){
 var p = prompt("Do you like phones? , please type yes or no . You should type yes to contion")
 while(p != "yes"){
-  p = prompt("Do you like phones? , please type yes or no . You should type yes to contion")
+  p = prompt("Do you like phones? , please type yes or no . You should type yes to continue")
 }
 }
 
