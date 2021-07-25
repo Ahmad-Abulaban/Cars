@@ -11,6 +11,7 @@ alert("Hey, Wlecome to my Website " + name)
 
 intersted_in_phones()
 
+
 var favPhone = prompt("what is you fav Phone? , please choose one of these ; iphone , samsung , huawei , Redmi ")
 
 while (favPhone != "iphone" && favPhone != "samsung" && favPhone != "huawei" && favPhone != "Redmi") {
@@ -18,6 +19,7 @@ while (favPhone != "iphone" && favPhone != "samsung" && favPhone != "huawei" && 
   favPhone = prompt("what is you fav Phone? , please choose one of these ; iphone , samsung , huawei , Redmi ")
 
 }
+
 
 var numberOfPic = prompt("how many times you wish to see it ")
 
