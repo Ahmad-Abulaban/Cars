@@ -12,8 +12,8 @@ while (favPhone != "iphone" && favPhone != "samsung" && favPhone != "huawei" && 
 
 var numberOfPic = prompt("how many times you wish to see it ")
 
-while (numberOfPic > 10) {
-  numberOfPic = prompt("please enter number less than 10!")
+while (numberOfPic > 15) {
+  numberOfPic = prompt("please enter number less than 15!")
 }
 
 
